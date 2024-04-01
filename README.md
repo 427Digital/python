@@ -1,4 +1,4 @@
-Python NLP for SEO
+Python for NLP and Semantic SEO
 This script leverages the Natural Language Toolkit (NLTK) in Python for basic natural language processing (NLP) tasks, aimed at enhancing search engine optimization (SEO) strategies. It includes tokenization, stopword removal, and lemmatization, serving as a starting point for SEO professionals and web developers interested in applying NLP techniques to improve website content relevance and search rankings.
 
 Features
