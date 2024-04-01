@@ -8,4 +8,4 @@ Quick Start
 Ensure Python and NLTK are installed.
 Download or clone this repository.
 Run the script with a sample text to see the processed output.
-https://427digital.com
+https://427digital.com/blog/seo/how-to-use-python-for-nlp-and-semantic-seo/
